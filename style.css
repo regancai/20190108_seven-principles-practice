@@ -1,0 +1,12 @@
+html {
+  margin:0;
+  padding:0;
+  background-color: #999
+}
+
+body {
+  width:70%
+  margin:0 auto;
+  font: 100% "Product Sans", "Noto Sans"
+
+}
