@@ -1,17 +1,21 @@
 html {
   margin:0;
   padding:0;
-  background-color: #D2D2D2
+  background-color: grey;
 }
 
 head {
-  background-color: #555
+  background-color: #555;
 }
 
 body {
   width:80%;
   margin:0 auto;
-  font: 100% "Product Sans", "Noto Sans"
+  /*font: 100% "Product Sans", "Noto Sans"*/
+  font-family: 'Noto Sans', sans-serif;
+  background: -webkit-linear-gradient(orange, purple);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 ul {
