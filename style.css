@@ -1,12 +1,23 @@
 html {
   margin:0;
   padding:0;
-  background-color: #999
+  background-color: #D2D2D2
+}
+
+head {
+  background-color: #555
 }
 
 body {
-  width:70%
+  width:80%;
   margin:0 auto;
   font: 100% "Product Sans", "Noto Sans"
+}
 
+ul {
+
+}
+
+#last-para {
+  margin-top: 1em;
 }
